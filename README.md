@@ -7,4 +7,4 @@
 - 🤔 I’m looking for help with AI
 - 💬 Ask me about anything
 - 📫 How to reach me: @kasperkufel
-- ⚡ Fun fact: I don't like pineapple on pizza
+- ⚡ Fun fact: I created this file just to pass my class
