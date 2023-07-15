@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on my master thesis
-- 🌱 I’m currently learning PHP
+- 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on some ambitious projects
 - 🤔 I’m looking for help with AI
 - 💬 Ask me about anything
